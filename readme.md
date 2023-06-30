@@ -119,5 +119,5 @@ https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-par
 
 https://www.analyticsvidhya.com/blog/2020/08/recommendation-system-k-nearest-neighbors/
 
-
+https://github.com/yesicamilagros/Proyecto_individual_1/edit/master/readme.md
 

@@ -2,7 +2,5 @@ pandas
 numpy
 seaborn
 matplotlib
-warnings
-io
 scipy 
 WordCloud

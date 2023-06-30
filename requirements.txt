@@ -6,3 +6,5 @@ scipy
 WordCloud
 uvicorn
 literal_eval
+io
+warnings

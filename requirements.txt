@@ -7,7 +7,6 @@ scipy
 WordCloud
 uvicorn
 literal_eval
-io
 warnings
 spatial
 operator

@@ -25,12 +25,12 @@ def dayofweek(d, m, y):
              + int(y / 400) + t[m - 1] + d) % 7)
 
 #df_movies = pd.read_csv(r'C:\Users\LENOVO\Downloads\movies_consulta.csv')
-pf22=pd.read_csv(r'C:\Users\LENOVO\Desktop\fast_api_proyecto\get_actor.csv')
-pf_titulo=pd.read_csv(r'C:\Users\LENOVO\Desktop\fast_api_proyecto\score_titulo.csv')
-pf_votos_titulo=pd.read_csv(r'C:\Users\LENOVO\Desktop\fast_api_proyecto\votos_titulo.csv')
-pf_date=pd.read_csv(r'C:\Users\LENOVO\Desktop\fast_api_proyecto\cantidad_filmaciones_dia.csv')
-pf_director=pd.read_csv(r'C:\Users\LENOVO\Desktop\fast_api_proyecto\get_director.csv')
-movies=pd.read_csv(r'C:\Users\LENOVO\Desktop\fast_api_proyecto\movies1.csv')
+pf22=pd.read_csv(r'C:\Users\LENOVO\Desktop\Proyecto_individual_1\dataset\get_actor.csv')
+pf_titulo=pd.read_csv(r'C:\Users\LENOVO\Desktop\Proyecto_individual_1\dataset\score_titulo.csv')
+pf_votos_titulo=pd.read_csv(r'C:\Users\LENOVO\Desktop\Proyecto_individual_1\dataset\votos_titulo.csv')
+pf_date=pd.read_csv(r'C:\Users\LENOVO\Desktop\Proyecto_individual_1\dataset\cantidad_filmaciones_dia.csv')
+pf_director=pd.read_csv(r'C:\Users\LENOVO\Desktop\Proyecto_individual_1\dataset\get_director.csv')
+movies=pd.read_csv(r'C:\Users\LENOVO\Desktop\Proyecto_individual_1\dataset\movies1.csv')
 @app.get('/cantidad_filmaciones_mes/{mes}')
 def cantidad_filmaciones_mes(mes:str):
 

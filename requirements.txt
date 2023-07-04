@@ -4,4 +4,4 @@ pandas
 python
 scipy
 uvicorn
-
+python-multipart

@@ -1,18 +1,7 @@
-anyio
-click
-colorama
 fastapi
 numpy
 pandas
-pydantic
-python-dateutil
 python-multipart
-pytz
 scipy
-six
-sniffio
-starlette
-typing_extensions
-tzdata
 uvicorn
 

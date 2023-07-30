@@ -4,4 +4,4 @@ pandas
 python
 scipy
 uvicorn
-python==3.7
+python

@@ -113,6 +113,12 @@ model_knn = NearestNeighbors(metric='cosine', algorithm='brute', n_neighbors=5, 
 
 <br />  
 
+### <strong>enlace del deploy consultas </strong>
+
+ <br /> 
+ https://names-eb4w.onrender.com/docs
+ <br /> 
+
  ### <strong>enlaces recomendados </strong>    
 <br /> 
 https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea
